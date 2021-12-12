@@ -1,3 +1,6 @@
 Final Project: Data Analysis and Preliminary Analytics
 
-Breifly describe project here
+What is the project?
+
+How is the repo organized?
+
