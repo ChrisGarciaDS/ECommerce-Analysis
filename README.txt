@@ -9,12 +9,12 @@ Modeling Problem: Classification
 Missing Values: Yes
 
 Attributes:
-"Administrative",
-"Administrative Duration",
-"Informational",
-"Informational Duration",
-"Product Related",
-"Product Related Duration"
+"Administrative", This is the number of pages of this type (administrative) that the user visited.
+"Administrative Duration", the amount of time spent in this category of pages.
+"Informational", This is the number of pages of this type (informational) that the user visited.
+"Informational Duration", the amount of time spent in this category of pages.
+"Product Related", This is the number of pages of this type (product related) that the user visited.
+"Product Related Duration" the amount of time spent in this category of pages.
 The above variables represent the number of different types of pages visited by the visitor in that session and total time spent in each of these page categories.
 The values of these features are derived from the URL information of the pages visited by the user and updated in real time when a user takes an action, e.g. moving from one page to another.
 
